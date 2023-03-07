@@ -14,3 +14,4 @@ Copyright (c) 2022 Ana Luiza Guimarães Luizão  ©
 
 
 https://analuiza2102.github.io/Tabela-calculoIMC/
+![20221208_064242](https://user-images.githubusercontent.com/103043108/223508642-1092deeb-22c0-4129-aaab-023c36cb3c8c.jpg)
