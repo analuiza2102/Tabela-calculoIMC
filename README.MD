@@ -16,3 +16,11 @@ Copyright (c) 2022 Ana Luiza Guimarães Luizão  ©
 https://analuiza2102.github.io/Tabela-calculoIMC/
 ![imc - tavela](https://user-images.githubusercontent.com/103043108/223508761-0dec1a77-f54a-4df1-8b01-1b2504d8341c.png)
 
+
+Para saber mais entre em contato comigo
+
+TechAna
+
+
+https://www.linkedin.com/in/analuizagluiz%C3%A3o/
+
